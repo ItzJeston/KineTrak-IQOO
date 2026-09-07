@@ -1,3 +1,5 @@
+Built during the 2026 iQOO Hackathon(Pune) in collaboration with @zahy294 @styxoid
+
 # KineTrak
 
 **6-DOF Spatial Controller & On-Device AI Gesture Copilot**
